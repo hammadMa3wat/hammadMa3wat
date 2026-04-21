@@ -2,12 +2,12 @@
 <h1 align="center">Hi 👋, I'm Hammad Khalil</h1>
 
 <h3 align="center">
-  💻 Software Engineering Student | 🚀 Future Developer
+  💻 FULL-STACK WEB DEVELOPER | 🚀 COMPUTER SCIENCE STUDENT
 </h3>
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I+Love+Coding+💻;Building+Projects+🚀;Always+Learning+📚" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Building+Projects+🚀;Always+Learning+📚" />
 </p>
 
 ---
