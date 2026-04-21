@@ -70,8 +70,10 @@ I am a Computer Science student currently in my 4th semester, with a strong inte
 
 ## 📈 Contribution Activity
 
+
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hammadMa3wat&theme=tokyo-night&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/hammadMa3wat/hammadMa3wat/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
